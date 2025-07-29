@@ -55,8 +55,7 @@ Due to dataset constraints and real-time performance requirements, we adopted a 
 
 ## 🚀 How to Run the Project
 
-### 1. Clone the Repository
+###  Clone the Repository
 
-```bash
-git clone https://github.com/your-username/Distracted-Driver-Detection.git
-cd Distracted-Driver-Detection
+
+
